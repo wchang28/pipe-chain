@@ -1,0 +1,19 @@
+{
+  "name": "pipe-chain",
+  "version": "1.0.0",
+  "description": "Pipe Chaining",
+  "main": "./js/index.js",
+  "typings": "./js/index.d.ts",
+  "scripts": {
+    "test": "node ./js/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wchang28/pipe-chain.git"
+  },
+  "author": "Wen Chang",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^8.0.53"
+  }
+}
